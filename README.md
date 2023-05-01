@@ -15,7 +15,7 @@ To exit close the command promt window and the browser tab.
 
 
 ## FAQ
-### Make sure this path where you extract the contents of the zip file. does not have any spaces.
+### Make sure this path where you extract the contents of the zip file does not have any spaces.
 ![image](https://user-images.githubusercontent.com/4302998/235427424-229a22e1-ad20-403e-b9b4-90abfa524b54.png)
 
 
