@@ -11,7 +11,7 @@
 ### A command prompt window and a browser should open with the race results.
 ![image](https://user-images.githubusercontent.com/4302998/235426097-ce2ffca1-0d77-4bb1-b2e3-f3517941d422.png)
 
-To exit close the command promt window and the browser tab.
+To exit close the command prompt window and the browser tab.
 
 
 ## FAQ
